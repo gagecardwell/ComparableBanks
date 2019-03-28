@@ -1,0 +1,16 @@
+BankName=Bank of Ossm
+NumberofEmployees2
+BankAccount=Bob
+AccountNumber=1
+Balance=1000.0
+SavingAccount=Sam
+AccountNumber=2
+Balance=500.0
+Rate=0.04
+BankAccount=John
+AccountNumber=3
+Balance=250.0
+SavingAccount=Gage
+AccountNumber=4
+Balance=4.98651984698466E20
+Rate=0.123456789
